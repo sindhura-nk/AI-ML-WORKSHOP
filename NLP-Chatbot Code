@@ -1,0 +1,8 @@
+https://github.com/sindhura-nk/GROQ-LLAMA3-chatbot 
+
+You can find the chatbot code in above link.
+
+1. Create an account in groq : https://console.groq.com/login 
+2. Get the free API key
+3. Use the models that you would wish to. 
+4. To deploy, signup on streamlit and use that app for deployment https://share.streamlit.io/ 
